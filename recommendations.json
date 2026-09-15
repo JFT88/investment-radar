@@ -1,0 +1,153 @@
+{
+  "updated": "2026-09-15T18:45:00-04:00",
+
+  "marketContext": {
+    "summary": "Marchés sous pression avec pétrole au-dessus de 100 $ US, rendements obligataires proches de 5 % et volatilité accrue sur les titres IA. Les signaux privilégient la patience et la stabilisation technique plutôt que l'achat immédiat.",
+    "stance": "Prudent"
+  },
+
+  "quoted": [
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "status": "À SURVEILLER",
+
+      "horizon": "Court / moyen",
+      "risk": "Moyen",
+
+      "referencePrice": 339.27,
+
+      "entryLow": null,
+      "entryHigh": null,
+
+      "targetLow": null,
+      "targetHigh": null,
+
+      "invalidation": null,
+
+      "thesis": "Croissance IA très forte via accélérateurs personnalisés et networking, avec forte génération de free cash flow.",
+
+      "pricedIn": "Le marché a fortement corrigé le titre après les craintes de ralentissement de l'IA et la remontée des taux.",
+
+      "catalyst": "Poursuite de la croissance des revenus IA et prochains commentaires de guidance.",
+
+      "mainRisk": "Compression de multiple liée aux taux et crainte de ralentissement des dépenses IA.",
+
+      "technical": "L'ancienne zone 350-360 $ a été cassée. Attendre une nouvelle base avant de redéfinir une zone d'entrée.",
+
+      "nextCatalyst": "Stabilisation technique / nouvelles commandes IA"
+    },
+
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "status": "À SURVEILLER",
+
+      "horizon": "Court / long",
+      "risk": "Moyen",
+
+      "referencePrice": 212.17,
+
+      "entryLow": null,
+      "entryHigh": null,
+
+      "targetLow": null,
+      "targetHigh": null,
+
+      "invalidation": null,
+
+      "thesis": "Leader dominant des accélérateurs IA avec forte croissance des revenus et demande encore soutenue.",
+
+      "pricedIn": "Une partie des attentes extrêmes de croissance a été comprimée par la correction récente.",
+
+      "catalyst": "Blackwell, commandes hyperscalers, inference et prochains résultats.",
+
+      "mainRisk": "Volatilité macro, compression de valorisation et éventuel ralentissement des dépenses IA.",
+
+      "technical": "Le titre est sous d'anciens niveaux techniques surveillés. Attendre une nouvelle base avant de définir une zone d'achat.",
+
+      "nextCatalyst": "Formation d'une base / nouvelles commandes Blackwell"
+    },
+
+    {
+      "ticker": "PSQL",
+      "name": "Pasqal",
+      "status": "À SURVEILLER",
+
+      "horizon": "Spéculatif",
+      "risk": "Très élevé",
+
+      "referencePrice": 8.31,
+
+      "entryLow": 7.30,
+      "entryHigh": 8.00,
+
+      "targetLow": 10.00,
+      "targetHigh": 12.00,
+
+      "invalidation": 6.90,
+
+      "thesis": "Technologie quantique à atomes neutres avec potentiel commercial important si les contrats et déploiements accélèrent.",
+
+      "pricedIn": "Une partie importante du potentiel futur reste spéculative par rapport aux revenus actuels.",
+
+      "catalyst": "Résultats semestriels, contrats commerciaux et jalons technologiques.",
+
+      "mainRisk": "Très forte volatilité, revenus encore faibles et valorisation difficile à justifier sur les fondamentaux actuels.",
+
+      "technical": "Le titre reste proche de sa zone d'entrée précédente mais un événement binaire approche.",
+
+      "nextCatalyst": "Résultats H1 2026 le 24 septembre 2026"
+    }
+  ],
+
+  "private": [
+    {
+      "name": "Anthropic",
+      "status": "ATTENDRE",
+
+      "stage": "Privée / pré-IPO",
+      "horizon": "Moyen / long",
+
+      "thesis": "Croissance très forte de Claude et adoption entreprise.",
+
+      "catalyst": "Prospectus IPO, revenus audités, marge et valorisation officielle.",
+
+      "risk": "Valorisation potentiellement extrêmement élevée et incertitude sur les obligations de compute.",
+
+      "reason": "Attendre les données publiques et la fourchette de prix avant d'évaluer un point d'entrée."
+    },
+
+    {
+      "name": "Ursa Major",
+      "status": "WATCH",
+
+      "stage": "Pré-IPO / SPAC",
+      "horizon": "Moyen / long",
+
+      "thesis": "Propulsion spatiale et défense dans un marché structurellement porteur.",
+
+      "catalyst": "Dépôts réglementaires, backlog et modalités finales de cotation.",
+
+      "risk": "Dilution SPAC et valorisation.",
+
+      "reason": "Surveiller la structure finale de la transaction avant toute prise de position."
+    },
+
+    {
+      "name": "Bamboo Insurance",
+      "status": "ATTENDRE",
+
+      "stage": "Pré-IPO",
+      "horizon": "Moyen",
+
+      "thesis": "Croissance rapide dans l'assurance habitation.",
+
+      "catalyst": "Prix IPO et résultats post-cotation.",
+
+      "risk": "Dette, concentration géographique et valorisation.",
+
+      "reason": "Préférer attendre la cotation et une éventuelle correction."
+    }
+  ]
+}
